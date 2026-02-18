@@ -70,7 +70,6 @@ import Admin_Communication from "./image/admin_communication.png";
 import Principal_Dashboard from "./image/principal_dashboard.png";
 // import Principal_Attendance_Management from "./image/principal_attendance_management.png";
 // import Principal_Academic_Management from "./image/principal_academic_management.png";
-
 import VP_Dashboard from "./image/vp_dashboard.png";
 import VP_Attendance_Management from "./image/vp_examination.png";
 import VP_Account_Management from "./image/vp_account_management.png";
