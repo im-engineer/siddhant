@@ -175,7 +175,6 @@ import ParentDashboard from "./image/parent_dashboard.png";
 import FeePayment from "./image/fee_payment.png";
 import AcademicResult from "./image/academic_result_student.png";
 
-
 export interface ProjectRole {
   id: string;
   name: string;
