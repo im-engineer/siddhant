@@ -70,6 +70,7 @@ import Admin_Communication from "./image/admin_communication.png";
 import Principal_Dashboard from "./image/principal_dashboard.png";
 // import Principal_Attendance_Management from "./image/principal_attendance_management.png";
 // import Principal_Academic_Management from "./image/principal_academic_management.png";
+
 import VP_Dashboard from "./image/vp_dashboard.png";
 import VP_Attendance_Management from "./image/vp_examination.png";
 import VP_Account_Management from "./image/vp_account_management.png";
@@ -145,7 +146,7 @@ import OakHostelMgmt from "./image/oak_hostel_mgmt.png";
 import OakFinanceMgmt from "./image/oak_finance_mgmt.png";
 import OakAdminSetting from "./image/OakAdminSetting.png";
 import PrincipalDashboard from "./image/principal_dashboard.png";
-import AcademicPerformance from "./image/academic_performance.png";
+import AcademicPerformance from "./image/Academic_Performance.png";
 import StaffDirectory from "./image/staff_directory.png";
 import Announcement from "./image/announcement.png";
 import TeacherDashboard from "./image/teacher_dashboard.png";
