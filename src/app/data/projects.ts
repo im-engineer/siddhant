@@ -148,7 +148,7 @@ import OakAdminSetting from "./image/OakAdminSetting.png";
 import PrincipalDashboard from "./image/principal_dashboard.png";
 import AcademicPerformance from "./image/Academic_Performance.png";
 import StaffDirectory from "./image/staff_directory.png";
-import Announcement from "./image/announcement.png";
+import Announcement from "./image/Announcement.png";
 import TeacherDashboard from "./image/teacher_dashboard.png";
 import TeacherClasses from "./image/teacher_classes.png";
 import TeacherTimeTable from "./image/teacher_timetable.png";
